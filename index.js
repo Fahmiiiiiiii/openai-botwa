@@ -35,7 +35,7 @@ function title() {
 		width: 80,
 		whitespaceBreak: false
 	})))
-	console.log(chalk.yellow(`\n                        ${chalk.yellow('[ Created By Irfan ]')}\n\n${chalk.red('Bot OpenAI')} : ${chalk.white('WhatsApp Bot OpenAI')}\n${chalk.red('Follow Insta Dev')} : ${chalk.white('@irfann._x')}\n${chalk.red('Message Me On WhatsApp')} : ${chalk.white('+62 851-7522-2272')}\n`))
+	console.log(chalk.yellow(`\n                        ${chalk.yellow('[ Created By Fahmi ]')}\n\n${chalk.red('Bot OpenAI')} : ${chalk.white('WhatsApp Bot OpenAI')}\n${chalk.red('Follow Insta Dev')} : ${chalk.white('@fahmi.hdyat_')}\n${chalk.red('Message Me On WhatsApp')} : ${chalk.white('+62 852-8040-7526')}\n`))
 }
 
 /**
